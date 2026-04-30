@@ -28,7 +28,7 @@ Plano comunicativo – Nave [Celula Pulse]
 
 ### 📡 Modelo Lineal
 - Representación en clases virtuales: Ejemdsfadfaf  
-- Ejemplo en nuestro contexto:  Asignatura ingles se realiza sssss  
+- Ejemplo en nuestro contexto:   Humanidades 
 
 ### 🔄 Modelo Interactivo
 - Representación en clases virtuales:  dfasdfasdf  
