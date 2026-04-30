@@ -87,8 +87,8 @@ Existen diversos obstáculos que pueden afectar la comunicación, como problemas
 |--------------------|------------|----------------------------------------------------------|----------------------|
 | 🔊 Emisor       |   Docente    | Explica el tema, orienta la actividad, comparte contenidos.|       👨‍🏫📢         |
 | 👂 Receptor     |Estudiantes   | Escuchan, observan, analizan la información               |        👩‍🎓👨‍🎓         |
-| 🌐 Canal        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |       💻📱🌍           |
-| ⚠️ Ruido        |            | Ej: desconexión, distracción, mal diseño de contenido    |    📶❌🔇              |
+| 🌐 Canal        |Plataformas digitales| Ej: Google Meet, Moodle, WhatsApp, correo           |       💻📱🌍           |
+| ⚠️ Ruido        | Interferencias en la comunicación | Ej: desconexión, distracción, mal diseño de contenido    |    📶❌🔇              |
 | 🔁 Retroalimentación|Docente y estudiantes |Preguntas, respuestas, comentarios en chat, participación oral|  🔄💬 |
 
 ---
